@@ -1,0 +1,16 @@
+F:\GitRepos\Console\DrawChart\bin\Debug\net5.0\DrawChart.exe
+F:\GitRepos\Console\DrawChart\bin\Debug\net5.0\DrawChart.deps.json
+F:\GitRepos\Console\DrawChart\bin\Debug\net5.0\DrawChart.runtimeconfig.json
+F:\GitRepos\Console\DrawChart\bin\Debug\net5.0\DrawChart.runtimeconfig.dev.json
+F:\GitRepos\Console\DrawChart\bin\Debug\net5.0\DrawChart.dll
+F:\GitRepos\Console\DrawChart\bin\Debug\net5.0\ref\DrawChart.dll
+F:\GitRepos\Console\DrawChart\bin\Debug\net5.0\DrawChart.pdb
+F:\GitRepos\Console\DrawChart\obj\Debug\net5.0\DrawChart.csprojAssemblyReference.cache
+F:\GitRepos\Console\DrawChart\obj\Debug\net5.0\DrawChart.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitRepos\Console\DrawChart\obj\Debug\net5.0\DrawChart.AssemblyInfoInputs.cache
+F:\GitRepos\Console\DrawChart\obj\Debug\net5.0\DrawChart.AssemblyInfo.cs
+F:\GitRepos\Console\DrawChart\obj\Debug\net5.0\DrawChart.csproj.CoreCompileInputs.cache
+F:\GitRepos\Console\DrawChart\obj\Debug\net5.0\DrawChart.dll
+F:\GitRepos\Console\DrawChart\obj\Debug\net5.0\ref\DrawChart.dll
+F:\GitRepos\Console\DrawChart\obj\Debug\net5.0\DrawChart.pdb
+F:\GitRepos\Console\DrawChart\obj\Debug\net5.0\DrawChart.genruntimeconfig.cache
